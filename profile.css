@@ -1,0 +1,49 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body{font-family: 'Poppins', sans-serif;
+    background: #fafafa}
+
+.container-fluid{
+    width:70%;
+}
+
+/*--------------------NAVBAR--------------------*/
+
+.stick{
+    background-color: rgba(255,255,255,1)!important;
+    box-shadow: 0 2px 2px rgba(85, 85, 85, 0.7) !important;
+    z-index: 9999!important;
+    color: #555555!important;
+
+}
+.stick-text{
+    color: #555555!important;
+
+}
+.navbar-toggler-bg{
+    background-color: #555555;
+}
+/*------------SEARCH BAR---------------------*/
+.form-back{
+    background-color:#555555 !important;
+    border: none;
+    /*background: none;*/
+    /*border-bottom: 1px solid white!important;*/
+    color: white!important;
+}
+.logo {
+    height: 50px;
+    width: auto;
+}
+.sidebar-header{
+    padding: 20px;
+    border-radius: 50%!important;
+    height: 200px;
+    max-width: 200px;
+
+}
+.header{
+    font-family: 'Dancing Script', cursive;
+}
+.details-section{
+    border: none;
+}
